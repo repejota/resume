@@ -7,7 +7,7 @@ My resume
 * Pandoc
 * LaTeX (for PDF rendering)
 
-## Setup development environment
+## Setup development environment
 
 ### For OSX:
 
