@@ -106,7 +106,7 @@ our team of 5 developers.
 As our platform is 100% distributed we work with various technologies and 
 languages from Erlang for the core to Javascript, PHP, Python etc ...
 
-## Senior Software Developer, Trovit ( http://www.trovit.com )
+### Senior Software Developer, Trovit ( http://www.trovit.com )
 March 2013 – April 2014, Barcelona Area, Spain
 
 During the one year and a couple of months my work at Trovit was to revamp the   
@@ -223,8 +223,8 @@ Finally, I've written a full PHP microframework that acts as a base for all his
 new web projects which I'm maintaining and planning to release as an OpenSource 
 project under http://mfphp.com very soon.
  
-### Senior Developer, Fundació Politècnica de Catalunya June 2009 – October 
-2011, Barcelona Area, Spain 
+### Senior Developer, Fundació Politècnica de Catalunya 
+June 2009 - October 2011, Barcelona Area, Spain 
 
 My main work was to develop new features and maintain their MOOC ( Massive Open 
 Online Course ) written in PHP and MySQL. 
@@ -256,7 +256,8 @@ Sites I've worked on are:
 Both of them international focused sites with hundred of thousands  visits/day 
 due its internationalization students profiles, and customer targets.
 
-### Founder, Namaah Solutions January 2001 – 2011, Girona 
+### Founder, Namaah Solutions 
+January 2001 – 2011, Girona 
 
 Various website design and implementations:
 
@@ -273,8 +274,8 @@ Various languages and frameworks used depending the client needs:
 
 PHP5, Django, Ruby on Rails, PostgreSQL, MySQL, JQuery, Dojo etc ...
 
-### Freelance IT Consultant & Senior Developer, GISCE Enginyeria S.L.  August 
-2007 – May 2009, Girona 
+### Freelance IT Consultant & Senior Developer, GISCE Enginyeria S.L.  
+August 2007 – May 2009, Girona 
 
 Consulting and development on various platforms.
 
@@ -290,8 +291,8 @@ platform and modules for ERP OpenSource TinyERP and OpenObject.
 
 Currently the work done is an active product and sucsessfully product. 
 
-### IT Consultant & Senior Developer, Netsuus Intelligence January 2007 – 
-January 2008, Girona 
+### IT Consultant & Senior Developer, Netsuus Intelligence 
+January 2007 – January 2008, Girona 
 
 Netsuus Intelligence was an startup focused on web analytics. They hired me 
 after I showed him a prototype of a distributed job scheduling platform built on 
@@ -325,8 +326,8 @@ Skills:
 Ruby, Ruby on Rails, .NET, Hadoop, Lucene, Mono, Microsoft WCF, Amazon SQS, 
 LOPD, Libpcap
 
-### Freelance IT Consultant & Senior Developer , Manuart S.L January 2004 – 
-March 2005, Girona
+### Freelance IT Consultant & Senior Developer , Manuart S.L 
+January 2004 – March 2005, Girona
  
 “Mi álbum digital”.
 
@@ -338,8 +339,8 @@ retouch them.
 
 Languages: MS .NET 4.0, C#
 
-### Freelance Project Manager, Castey S.L.  February 2003 – December 2003, 
-Riudellots de la Selva 
+### Freelance Project Manager, Castey S.L.  
+February 2003 – December 2003, Riudellots de la Selva 
 
 As a project manager, organized all their suppliers ( ERP, Web and Marketing ) 
 to start a whole new product brand, including a marketing campaign with TV ads, 
@@ -371,8 +372,8 @@ associates.
 
 Languages: PHP4, MySQL, HTML, CSS, Javascript.
 
-### Founder & Main Developer, BasquetGirona June 1999 – November 2002, Girona, 
-Spain
+### Founder & Main Developer, BasquetGirona 
+June 1999 – November 2002, Girona
  
 * http://www.basquetgirona.com
 * http://www.basquetbarcelona.com
@@ -382,11 +383,13 @@ Spain
 This is a side project I've created with some friends to supply an early 
 internet place to discuss about basketball focused on base  categories and not 
 professional players.
+
 I did both design, development and maintenance of the sites.
 We covered during almost 4 years all non-professional categories providing real 
 time results as they were appearing also with forums, polls and other features.
 We have gotten about 40 stable collaborators and about 10.000 users on the site 
 ( considering the target and the years, it was a good project ).
+
 Project closed due social networks and the lack of interest to monetize the 
 project.
 
@@ -421,8 +424,8 @@ data source with a couple of GUI tools written in .NET.
 
 Languages used: Java, Visual Basic / C# .NET ( first .net framework versions ).
 
-### Project Manager & Senior Developer., Agents Inspired Technologies S.A.  June 
-2000 – November 2001, Girona
+### Project Manager & Senior Developer., Agents Inspired Technologies S.A.  
+June 2000 – November 2001, Girona
  
 As a project manager was responsible for all internal company infrastructure, 
 both for the development section to the corporate section.
@@ -441,7 +444,8 @@ Finally, when a new developer were hired it was also my responsibility to
 introduce them to the company's way of work and taught them any technology that 
 he doesn't knew, if were needed. 
 
-### CTO, Gest Unidiversitat S.L.  September 1998 – June 2000, Girona
+### CTO, Gest Unidiversitat S.L.  
+September 1998 – June 2000, Girona
  
 That was a company built with friends from University.
 As technical manager of the company, my job included choosing and evaluating 
@@ -454,8 +458,8 @@ Servers and of course HTML, CSS and javascript.
 Additionally also helped in any other aspect of the company and future decisions 
 or were purely organizational.
  
-### Junior Developer & Sysadminm Cismon Informàtica S.L.  December 1996 – August 
-1998, Girona
+### Junior Developer & Sysadminm Cismon Informàtica S.L.
+December 1996 – August 1998, Girona
 
 My work basically was to implement the frontend of all projects the company 
 conducted. Also helped in the maintenance of the servers we had based on Windows 
