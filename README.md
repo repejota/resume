@@ -11,15 +11,17 @@ My resume
 
 ### For OSX:
 
-First install pandoc
+First install pandoc and LaTeX support:
 
 ```
 $ brew install pandoc
-```
-
-Also install LaTeX support:
-
-```
 $ brek cask install basictex
 ```
 
+## How to build
+
+Execute `make help` to list all formats available:
+
+```
+$ make help
+````
