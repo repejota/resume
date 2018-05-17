@@ -5,16 +5,19 @@ DESTINATION=resume.pdf
 
 # Build
 
-build: prepare html pdf ## Build resume
+all: prepare html pdf ## Build resume in all formats
 
 prepare:
-	mkdir -p ${BUILD_DIR} ${DIST_DIR}
+	mkdir -p ${BUILD_DIR}
 	
-html: prepare
+html: prepare	## Build HTML format
 	pandoc --section-divs -f markdown -t html5 -o ${BUILD_DIR}/resume.html ${SOURCE}
+	mkdir -p ${DIST_DIR}/html/
+	cp ${BUILD_DIR}/resume.html ${DIST_DIR}/html/resume.html
 
-pdf: prepare html
-	pandoc ${BUILD_DIR}/resume.html -o ${DIST_DIR}/${DESTINATION}
+pdf: prepare html	## Build PDF format
+	mkdir -p ${DIST_DIR}/pdf/
+	pandoc ${BUILD_DIR}/resume.html -o ${DIST_DIR}/pdf/${DESTINATION}
 
 # Clean
 
