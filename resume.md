@@ -372,7 +372,7 @@ associates.
 
 Languages: PHP4, MySQL, HTML, CSS, Javascript.
 
-### Founder & Main Developer, BasquetGirona 
+### Founder & Main Developer, BasquetGirona
 June 1999 – November 2002, Girona
  
 * http://www.basquetgirona.com
