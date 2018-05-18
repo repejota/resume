@@ -1,4 +1,4 @@
-# Raül Pérez
+# General Information
 
 C/ Jacint Verdaguer, 4, 2on 4a · Vilabrareix, Girona, Spain · 17180
 repejota@gmail.com  · www.repejota.com
@@ -41,9 +41,9 @@ My current priorities looking for a job are:
 * I prefer to work on “products” than on “services”.
 * A good and appropriate salary of course ;) 
 
-#	 Employment History
+# Employment History
 
-### Lead Software Engineer, R3Labs Ltd ( http://www.r3labs.io )
+### Lead Software Engineer, R3Labs Ltd
 February 2016 – Present, London, UK
 
 Building http://www.ernest.io, the opensource next generation full-stack 
@@ -63,7 +63,7 @@ tools like Redis, NATS, PostgreSQL, ElasticSearch & Logstash and all the
 platform is available opensource at https://github.com/ernestio & 
 http://www.ernest.io 
 
-### Lead Software Engineer, Carrenza Ltd ( http://www.carrenza.com )
+### Lead Software Engineer, Carrenza Ltd
 March 2015 – February 2016, London, UK
 
 At Carrenza I'm working on a Hybrid Cloud platform involving IAAS and PAAS 
@@ -78,7 +78,7 @@ Our stack involves Golang  (almost 90% of the code), Ruby, Java, PHP and tools
 like VMWare Air, VMWare Director, Docker, Vagrant, NSQ, and NATS, a distributed 
 message system.
 
-### Founder & CTO, Vtalks ( http://www.vtalks.net )
+### Founder & CTO, Vtalks
 March 2015 – Present, London, UK & Barcelona, Spain
 
 vtalks.net is a platform to share technical talks for developers and technical 
@@ -92,7 +92,7 @@ Our stack is a platform designed as a microservice architecture involving
 Python, Node.js, MongoDB, Chef and NATS a distributed message system in Golang 
 for all communication between its components.
 
-### Lead Software Engineer. Nubera eBusiness ( http://www.nubera.com )
+### Lead Software Engineer. Nubera eBusiness
 April 2014 – February 2015, Barcelona
 
 I’m the lead developer engineer on an iPAAS ( Integrations Platform as a 
@@ -106,23 +106,24 @@ our team of 5 developers.
 As our platform is 100% distributed we work with various technologies and 
 languages from Erlang for the core to Javascript, PHP, Python etc ...
 
-### Senior Software Developer, Trovit ( http://www.trovit.com )
+### Senior Software Developer, Trovit
 March 2013 – April 2014, Barcelona
 
 During the one year and a couple of months my work at Trovit was to revamp the   
 mobile web version of the platform. We rewrote from scratch the entire stack, 
 and provided a new layout specially created to work on multiple devices, so 
 mobile-first design approach was taken.
+
 I was also responsible for the API that was used by the native mobile 
 applications ( iOS & Android ) and a lot of internal projects.
+
 Plus my job, we also did some pet projects, one of them was to create the 
 official FirefoxOS application. Mozilla liked our work and got featured our work 
 internationally as a "staff promoted application" as we were their first 
 e-commerce related application in Spain.
 
 
-### Technical ERP Consultant & eCommerce Project Manager / Team Leader, Smile 
-Iberia
+### Technical ERP Consultant & eCommerce Team Leader, Smile Iberia
 November 2011 – March 2013, Barcelona
 
 As part of Smile Group I have two roles on this job.
@@ -423,7 +424,7 @@ data source with a couple of GUI tools written in .NET.
 
 Languages used: Java, Visual Basic / C# .NET ( first .net framework versions ).
 
-### Project Manager & Senior Developer., Agents Inspired Technologies SA  
+### Project Manager & Senior Developer, Agents Inspired Technologies SA  
 June 2000 – November 2001, Girona
  
 As a project manager was responsible for all internal company infrastructure, 
@@ -464,7 +465,7 @@ My work basically was to implement the frontend of all projects the company
 conducted. Also helped in the maintenance of the servers we had based on Windows 
 NT and Solaris respectively.
  
-### Tech Junior PC Help Desk, Cismon Informatica SL
+### Tech Junior PC Help Desk, Cismon Informàtica SL
 December 1995 – December 1996, Girona
  
 During my studies I was fixing and upgrading PCs, server installations and Help 
