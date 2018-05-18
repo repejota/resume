@@ -13,7 +13,11 @@ prepare:
 	
 html: 		prepare	
 html:		## Build HTML format
-	pandoc --section-divs -f markdown -t html5 -o ${BUILD_DIR}/resume.html ${SOURCE}
+	pandoc --verbose \
+		   --from markdown \
+		   --to html \
+		   --output ${BUILD_DIR}/resume.html \
+		   ${SOURCE}
 	mkdir -p ${DIST_DIR}/html/
 	cp ${BUILD_DIR}/resume.html ${DIST_DIR}/html/resume.html
 
