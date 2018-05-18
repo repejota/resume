@@ -18,10 +18,15 @@ $ brew install pandoc
 $ brek cask install basictex
 ```
 
-## How to build
+## How to build
 
 Execute `make help` to list all formats available:
 
 ```
 $ make help
+all:             Build resume in all formats
+html:            Build standalone (one file) HTML format
+clean:           Delete generated intermediate files
+dist-clean:      Delete generated distribution files
+help:            Show this help ( default )
 ````
