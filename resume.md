@@ -43,7 +43,7 @@ My current priorities looking for a job are:
 
 #	 Employment History
 
-### Lead Software Engineer, R3Labs Ltd. ( http://www.r3labs.io )
+### Lead Software Engineer, R3Labs Ltd ( http://www.r3labs.io )
 February 2016 – Present, London, UK
 
 Building http://www.ernest.io, the opensource next generation full-stack 
@@ -63,7 +63,7 @@ tools like Redis, NATS, PostgreSQL, ElasticSearch & Logstash and all the
 platform is available opensource at https://github.com/ernestio & 
 http://www.ernest.io 
 
-### Lead Software Engineer, Carrenza Ltd. ( http://www.carrenza.com )
+### Lead Software Engineer, Carrenza Ltd ( http://www.carrenza.com )
 March 2015 – February 2016, London, UK
 
 At Carrenza I'm working on a Hybrid Cloud platform involving IAAS and PAAS 
@@ -78,7 +78,7 @@ Our stack involves Golang  (almost 90% of the code), Ruby, Java, PHP and tools
 like VMWare Air, VMWare Director, Docker, Vagrant, NSQ, and NATS, a distributed 
 message system.
 
-### Founder & CTO, vtalks.net ( http://www.vtalks.net )
+### Founder & CTO, Vtalks ( http://www.vtalks.net )
 March 2015 – Present, London, UK & Barcelona, Spain
 
 vtalks.net is a platform to share technical talks for developers and technical 
@@ -93,7 +93,7 @@ Python, Node.js, MongoDB, Chef and NATS a distributed message system in Golang
 for all communication between its components.
 
 ### Lead Software Engineer. Nubera eBusiness ( http://www.nubera.com )
-April 2014 – February 2015, Barcelona Area, Spain
+April 2014 – February 2015, Barcelona
 
 I’m the lead developer engineer on an iPAAS ( Integrations Platform as a 
 Service) which helps SAAS vendors to integrate their own products each other. We 
@@ -107,7 +107,7 @@ As our platform is 100% distributed we work with various technologies and
 languages from Erlang for the core to Javascript, PHP, Python etc ...
 
 ### Senior Software Developer, Trovit ( http://www.trovit.com )
-March 2013 – April 2014, Barcelona Area, Spain
+March 2013 – April 2014, Barcelona
 
 During the one year and a couple of months my work at Trovit was to revamp the   
 mobile web version of the platform. We rewrote from scratch the entire stack, 
@@ -121,9 +121,9 @@ internationally as a "staff promoted application" as we were their first
 e-commerce related application in Spain.
 
 
-### Technical ERP Consultant & eCommerce Project Manager / Team Leader., Smile 
+### Technical ERP Consultant & eCommerce Project Manager / Team Leader, Smile 
 Iberia
-November 2011 – March 2013, Barcelona Aea, Spain 
+November 2011 – March 2013, Barcelona
 
 As part of Smile Group I have two roles on this job.
 One is to be a Project Manager ( Technical Project Manager indeed ) on big 
@@ -195,7 +195,7 @@ We commonly use Subversion and Git on all of our projects, due our decoupled way
 of work. Also we use Jekins as our continuous integration service to ensure a 
 good QA tests policy. 
 
-### Freelance IT Consultant & Senior Developer, GRN Serveis Telemàtics S.L.
+### Freelance IT Consultant & Senior Developer, GRN Serveis Telemàtics SL
 June 2005 – January 2012, Girona 
 
 For at least seven years and as a freelancer, I have developed various technical 
@@ -208,8 +208,8 @@ web projects.
 Our relationship, always focused on the long term it stand currently on a break 
 given my focus on my career.
  
-### Freelance IT Consultant & Senior Developer, Projectes Com Tech S.L.  June 
-2005 – 2015, Girona 
+### Freelance IT Consultant & Senior Developer, Projectes Com Tech SL  
+June 2005 – February 2015, Girona 
 
 During a long term relationship I've been helping in various aspects as 
 freelance like porting old applications written in PHP3 to PHP5, improve some 
@@ -274,7 +274,7 @@ Various languages and frameworks used depending the client needs:
 
 PHP5, Django, Ruby on Rails, PostgreSQL, MySQL, JQuery, Dojo etc ...
 
-### Freelance IT Consultant & Senior Developer, GISCE Enginyeria S.L.  
+### Freelance IT Consultant & Senior Developer, GISCE Enginyeria SL  
 August 2007 – May 2009, Girona 
 
 Consulting and development on various platforms.
@@ -291,7 +291,7 @@ platform and modules for ERP OpenSource TinyERP and OpenObject.
 
 Currently the work done is an active product and sucsessfully product. 
 
-### IT Consultant & Senior Developer, Netsuus Intelligence 
+### IT Consultant & Senior Developer, Netsuus Intelligence SL
 January 2007 – January 2008, Girona 
 
 Netsuus Intelligence was an startup focused on web analytics. They hired me 
@@ -326,7 +326,7 @@ Skills:
 Ruby, Ruby on Rails, .NET, Hadoop, Lucene, Mono, Microsoft WCF, Amazon SQS, 
 LOPD, Libpcap
 
-### Freelance IT Consultant & Senior Developer , Manuart S.L 
+### Freelance IT Consultant & Senior Developer, Manuart SL 
 January 2004 – March 2005, Girona
  
 “Mi álbum digital”.
@@ -339,7 +339,7 @@ retouch them.
 
 Languages: MS .NET 4.0, C#
 
-### Freelance Project Manager, Castey S.L.  
+### Freelance Project Manager, Castey SL  
 February 2003 – December 2003, Riudellots de la Selva 
 
 As a project manager, organized all their suppliers ( ERP, Web and Marketing ) 
@@ -348,7 +348,7 @@ an entire e-commerce site and help desk department.  Project duration was about
 1 entire year since its beginning brainstorming meetings to the final deadline 
 and product presentation on live.
 
-### Freelance IT Consultant and Senior Developer., Industrial Gines S.A.  
+### Freelance IT Consultant and Senior Developer., Industrial Gines SA 
 October 2002 – December 2003, Girona
  
 Industrial Ginés S.A. & MatasRamis S.A.  http://www.industrialgines.com
@@ -359,8 +359,8 @@ Implemented industrialgines.com and matasramis.com as an example.
 
 Languages VBScript and SQLServer. 
 
-### Freelance IT Consultant and Senior Developer, Electroclub S.A.  December 
-2002 – January 2003, Barcelona 
+### Freelance IT Consultant and Senior Developer, Electroclub SA
+December 2002 – January 2003, Barcelona 
 
 Design, analysis and development of a multi website LAMP framework for a group 
 of companies.  Deployed an application ( http://www.electroclub.com ) using that 
@@ -395,8 +395,8 @@ project.
 
 Languages: PHP4, PHP5, Javascript, CSS, MySQL
 
-### Freelance IT Consultant & Senior Developer, Agents Inspired Technologies 
-S.A.  June 2002 – September 2002, Madrid Area, Spain
+### Freelance IT Consultant & Senior Developer, Agents Inspired Technologies SA
+June 2002 – September 2002, Madrid Area, Spain
  
 My last job as a freelance with Agents Inspired Technologies S. A. was a full 
 database abstraction of their product and porting their platform to to Oracle 
@@ -408,8 +408,7 @@ Telefónica Research and Development in Madrid as part of contractor service.
 Finally Telefonica I+D bought their product and all its rights and Agents 
 Inspired Technologies S.A. closed its operations. 
 
-### Freelance IT Consultant & Senior Developer, Agents Inspired Technologies 
-S.A.
+### Freelance IT Consultant & Senior Developer, Agents Inspired Technologies SA
 February 2002 – June 2002, Barcelona
  
 After my departing as my past role because the startup didn't raise too much 
@@ -424,7 +423,7 @@ data source with a couple of GUI tools written in .NET.
 
 Languages used: Java, Visual Basic / C# .NET ( first .net framework versions ).
 
-### Project Manager & Senior Developer., Agents Inspired Technologies S.A.  
+### Project Manager & Senior Developer., Agents Inspired Technologies SA  
 June 2000 – November 2001, Girona
  
 As a project manager was responsible for all internal company infrastructure, 
@@ -444,7 +443,7 @@ Finally, when a new developer were hired it was also my responsibility to
 introduce them to the company's way of work and taught them any technology that 
 he doesn't knew, if were needed. 
 
-### CTO, Gest Unidiversitat S.L.  
+### CTO, Gest Unidiversitat SL  
 September 1998 – June 2000, Girona
  
 That was a company built with friends from University.
@@ -458,14 +457,14 @@ Servers and of course HTML, CSS and javascript.
 Additionally also helped in any other aspect of the company and future decisions 
 or were purely organizational.
  
-### Junior Developer & Sysadminm Cismon Informàtica S.L.
+### Junior Developer & Sysadminm Cismon Informàtica SL
 December 1996 – August 1998, Girona
 
 My work basically was to implement the frontend of all projects the company 
 conducted. Also helped in the maintenance of the servers we had based on Windows 
 NT and Solaris respectively.
  
-### Tech Junior PC Help Desk, Cismon Informatica S.L.
+### Tech Junior PC Help Desk, Cismon Informatica SL
 December 1995 – December 1996, Girona
  
 During my studies I was fixing and upgrading PCs, server installations and Help 

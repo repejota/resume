@@ -1,39 +1,43 @@
-SOURCE=resume.md
+SOURCE=resume
+DESTINATION=resume
 BUILD_DIR=build
 DIST_DIR=dist
-DESTINATION=resume.pdf
 
 # Build
 
-all:		prepare html pdf 
+all:		html 
 all:		## Build resume in all formats
 
 prepare:
-	mkdir -p ${BUILD_DIR}
-	
-html: 		prepare	
-html:		## Build HTML format
-	pandoc --verbose \
-		   --from markdown \
-		   --to html \
-		   --output ${BUILD_DIR}/resume.html \
-		   ${SOURCE}
-	mkdir -p ${DIST_DIR}/html/
-	cp ${BUILD_DIR}/resume.html ${DIST_DIR}/html/resume.html
+	@mkdir -p ${BUILD_DIR}
 
-pdf: 		prepare html	
-pdf:		## Build PDF format
-	mkdir -p ${DIST_DIR}/pdf/
-	pandoc ${BUILD_DIR}/resume.html -o ${DIST_DIR}/pdf/${DESTINATION}
+build:		prepare
+	@pandoc --verbose \
+		--from markdown \
+		--to html \
+		--output ${BUILD_DIR}/${DESTINATION}.html \
+		${SOURCE}.md
+
+html: 		build
+html:		## Build standalone (one file) HTML format
+	@echo "Standalone HTML version"
+	@mkdir -p ${DIST_DIR}/html/
+	@pandoc --verbose \
+		--from markdown \
+		--to html \
+		--standalone \
+		--output ${DIST_DIR}/html/${DESTINATION}.html \
+		${SOURCE}.md
+	@echo ${DIST_DIR}/html/${DESTINATION}.html
 
 # Clean
 
 clean:		## Delete generated intermediate files
-	rm -rf build
+	@rm -rf build
 
 dist-clean: clean
 dist-clean:	## Delete generated distribution files
-	rm -rf dist
+	@rm -rf dist
 
 .PHONY: 	help
 help:		## Show this help ( default )
