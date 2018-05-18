@@ -5,31 +5,20 @@ DIST_DIR=dist
 
 # Build
 
-all:		html 
+all:		pdf
 all:		## Build resume in all formats
 
 prepare:
 	@mkdir -p ${BUILD_DIR}
+	@mkdir -p ${DIST_DIR}
 
-build:		prepare
-	@pandoc --verbose \
-		--from markdown \
-		--to html \
-		--output ${BUILD_DIR}/${DESTINATION}.html \
-		${SOURCE}.md
-
-html: 		build
-html:		## Build standalone (one file) HTML format
-	@echo "Standalone HTML version"
-	@mkdir -p ${DIST_DIR}/html/
-	@pandoc --verbose \
-		--from markdown \
-		--to html \
+pdf:		prepare
+pdf:		## Build resume in PDF format
+	@mkdir -p ${DIST_DIR}/pdf
+	@pandoc ${SOURCE}.md \
+		--verbose \
 		--standalone \
-		--data-dir ./data \
-		--output ${DIST_DIR}/html/${DESTINATION}.html \
-		${SOURCE}.md metadata.yaml
-	@echo ${DIST_DIR}/html/${DESTINATION}.html
+		--output ${DIST_DIR}/pdf/${DESTINATION}.pdf
 
 # Clean
 
@@ -40,8 +29,4 @@ dist-clean: clean
 dist-clean:	## Delete generated distribution files
 	@rm -rf dist
 
-.PHONY: 	help
-help:		## Show this help ( default )
-	@fgrep -h "##" $(MAKEFILE_LIST) | fgrep -v fgrep | sed -e 's/\\$$//' | sed -e 's/##//'
-
-.DEFAULT_GOAL := help
+include Makefile.help.mk

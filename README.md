@@ -25,7 +25,7 @@ Execute `make help` to list all formats available:
 ```
 $ make help
 all:             Build resume in all formats
-html:            Build standalone (one file) HTML format
+pdf:             Build resume in PDF format
 clean:           Delete generated intermediate files
 dist-clean:      Delete generated distribution files
 help:            Show this help ( default )
