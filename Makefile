@@ -26,8 +26,9 @@ html:		## Build standalone (one file) HTML format
 		--from markdown \
 		--to html \
 		--standalone \
+		--data-dir ./data \
 		--output ${DIST_DIR}/html/${DESTINATION}.html \
-		${SOURCE}.md
+		${SOURCE}.md metadata.yaml
 	@echo ${DIST_DIR}/html/${DESTINATION}.html
 
 # Clean
